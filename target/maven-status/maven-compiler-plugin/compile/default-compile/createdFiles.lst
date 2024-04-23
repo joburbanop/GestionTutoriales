@@ -1,0 +1,10 @@
+config\coneccion.class
+Servlets\SVConeccion.class
+com\umariana\gestiontutoriales\resources\JakartaEE8Resource.class
+Servlets\SVIngresar.class
+com\umariana\gestiontutoriales\JakartaRestConfiguration.class
+Servlets\SvActualizar.class
+Servlets\VerTodoRegistro.class
+Mundo\GestorTutorial.class
+Servlets\SvEliminar.class
+Mundo\Tutorial.class
